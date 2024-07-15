@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://popyrayan.github.io/sitemap
+Sitemap: https://popyrayan.github.io/app/sitemap
+Sitemap: https://popyrayan.github.io/assets/sitemap
+Sitemap: https://popyrayan.github.io/css/sitemap
+Sitemap: https://popyrayan.github.io/includes/sitemap
+Sitemap: https://popyrayan.github.io/item/sitemap
+Sitemap: https://popyrayan.github.io/src/sitemap
